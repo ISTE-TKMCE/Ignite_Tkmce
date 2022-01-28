@@ -111,6 +111,9 @@ body{
        
         margin-left: 80%;
     }
+    .glide__arrows{
+        display: none;
+    }
     
 }
 @media screen and (min-width:300px) and (max-width:600px) {
@@ -481,7 +484,15 @@ nav{
     border-bottom-right-radius: 50px 50px;
     border-top-left-radius: 100px 100px;
     border-top-right-radius: 100px 100px;
+    
 }
+.container-fluid{
+    
+    
+    margin: auto;
+}
+
+
 .card-body{
     font-family: 'Oswald', sans-serif;
     font-size: xx-large;
